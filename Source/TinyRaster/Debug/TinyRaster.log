@@ -1,0 +1,97 @@
+﻿Build started 07/11/2016 22:50:48.
+     1>Project "C:\Users\Luke\Desktop\TinyRaster 07Nov\TinyRaster\TinyRaster.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Rasterizer.cpp
+         Rasterizer.cpp
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(124): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(125): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(153): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(154): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(155): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(156): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(162): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(163): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(164): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(165): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(185): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(186): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(187): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(188): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(202): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(203): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(204): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(205): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(212): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(216): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(217): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(227): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(228): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(232): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(233): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(247): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(270): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(276): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(323): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(323): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(337): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(340): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(341): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(383): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(390): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(392): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(392): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(405): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(408): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(409): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(424): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(431): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(432): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(437): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(438): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(439): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(440): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(445): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(446): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(447): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(448): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(449): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(450): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(451): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(452): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(458): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(459): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(460): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(461): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(466): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(467): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(468): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(469): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(474): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(475): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(476): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(477): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(478): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(479): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(480): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(481): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(487): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(488): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(489): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\luke\desktop\tinyraster 07nov\tinyraster\rasterizer.cpp(490): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Luke\Desktop\TinyRaster 07Nov\Debug\TinyRaster.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Luke\Desktop\TinyRaster 07Nov\Debug\TinyRaster.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Luke\Desktop\TinyRaster 07Nov\Debug\TinyRaster.lib" /MACHINE:X86 Debug\TinyRaster.res
+         Debug\AssignmentTests.obj
+         Debug\Framebuffer.obj
+         Debug\TestApplication.obj
+         Debug\AppWindow.obj
+         Debug\Rasterizer.obj
+         Debug\TinyRasterMain.obj
+         Debug\Vector2.obj
+         Debug\Vector3.obj
+         Debug\Vector4.obj
+         TinyRaster.vcxproj -> C:\Users\Luke\Desktop\TinyRaster 07Nov\Debug\TinyRaster.exe
+     1>Done Building Project "C:\Users\Luke\Desktop\TinyRaster 07Nov\TinyRaster\TinyRaster.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.24

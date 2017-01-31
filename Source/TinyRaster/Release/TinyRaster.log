@@ -1,0 +1,102 @@
+﻿Build started 07/11/2016 23:00:21.
+     1>Project "C:\Users\Luke\Desktop\TinyRaster 07Nov\TinyRaster\TinyRaster.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Rasterizer.cpp
+         Rasterizer.cpp
+     1>Rasterizer.cpp(124): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(125): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(153): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(154): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(155): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(156): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(162): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(163): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(164): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(165): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(185): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(186): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(187): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(188): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(202): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(203): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(204): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(205): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(212): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(216): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(217): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(227): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(228): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(232): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(233): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(247): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>Rasterizer.cpp(270): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(276): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(319): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+     1>Rasterizer.cpp(319): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(333): warning C4018: '<': signed/unsigned mismatch
+     1>Rasterizer.cpp(336): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(337): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(379): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(386): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+     1>Rasterizer.cpp(388): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+     1>Rasterizer.cpp(388): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(402): warning C4018: '<': signed/unsigned mismatch
+     1>Rasterizer.cpp(405): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(406): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(421): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+     1>Rasterizer.cpp(428): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(429): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>Rasterizer.cpp(434): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(435): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(436): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(437): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(442): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(443): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(444): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(445): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(446): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(447): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(448): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(449): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(455): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(456): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(457): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(458): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(463): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(464): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(465): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(466): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(471): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(472): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(473): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(474): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(475): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(476): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(477): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(478): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(484): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(485): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(486): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>Rasterizer.cpp(487): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Luke\Desktop\TinyRaster 07Nov\Release\TinyRaster.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Luke\Desktop\TinyRaster 07Nov\Release\TinyRaster.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Luke\Desktop\TinyRaster 07Nov\Release\TinyRaster.lib" /MACHINE:X86 /SAFESEH Release\TinyRaster.res
+         Release\AssignmentTests.obj
+         Release\Framebuffer.obj
+         Release\TestApplication.obj
+         Release\AppWindow.obj
+         Release\Rasterizer.obj
+         Release\TinyRasterMain.obj
+         Release\Vector2.obj
+         Release\Vector3.obj
+         Release\Vector4.obj
+         Generating code
+         2 of 279 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           7 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         TinyRaster.vcxproj -> C:\Users\Luke\Desktop\TinyRaster 07Nov\Release\TinyRaster.exe
+     1>Done Building Project "C:\Users\Luke\Desktop\TinyRaster 07Nov\TinyRaster\TinyRaster.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.20
